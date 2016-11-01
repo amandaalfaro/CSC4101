@@ -1,0 +1,5 @@
+C:\Users\khale\Desktop\prog1.Csharp\obj\x86\Debug\CS4101_Proj1.csprojResolveAssemblyReference.cache
+C:\Users\khale\Desktop\prog1.Csharp\bin\Debug\SPP.exe
+C:\Users\khale\Desktop\prog1.Csharp\bin\Debug\SPP.pdb
+C:\Users\khale\Desktop\prog1.Csharp\obj\x86\Debug\SPP.exe
+C:\Users\khale\Desktop\prog1.Csharp\obj\x86\Debug\SPP.pdb
